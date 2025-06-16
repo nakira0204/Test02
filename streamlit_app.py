@@ -3,4 +3,4 @@ import streamlit as st
 from snowflake.snowpark.context import get_active_session
 
 # Write directly to the app
-st.title(f"GIT01 Revised :balloon: {st.__version__}")
+st.title(f"GIT01 Revised 02 :balloon: {st.__version__}")
